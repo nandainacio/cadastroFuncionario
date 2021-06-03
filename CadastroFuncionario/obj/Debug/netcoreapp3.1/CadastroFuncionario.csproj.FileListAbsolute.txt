@@ -1,0 +1,13 @@
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\bin\Debug\netcoreapp3.1\CadastroFuncionario.exe
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\bin\Debug\netcoreapp3.1\CadastroFuncionario.deps.json
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\bin\Debug\netcoreapp3.1\CadastroFuncionario.runtimeconfig.json
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\bin\Debug\netcoreapp3.1\CadastroFuncionario.runtimeconfig.dev.json
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\bin\Debug\netcoreapp3.1\CadastroFuncionario.dll
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\bin\Debug\netcoreapp3.1\CadastroFuncionario.pdb
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.csprojAssemblyReference.cache
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.AssemblyInfoInputs.cache
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.AssemblyInfo.cs
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.dll
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.pdb
+C:\Users\fp_in\source\repos\CadastroFuncionario\CadastroFuncionario\CadastroFuncionario\obj\Debug\netcoreapp3.1\CadastroFuncionario.genruntimeconfig.cache
